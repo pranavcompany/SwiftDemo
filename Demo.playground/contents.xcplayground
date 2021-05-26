@@ -5,5 +5,9 @@
         <page name='Enum'/>
         <page name='DeferStatement'/>
         <page name='HigherOrderFunctions'/>
+        <page name='Generics'/>
+        <page name='Cloures'/>
+        <page name='Initializers'/>
+        <page name='Properties'/>
     </pages>
 </playground>
